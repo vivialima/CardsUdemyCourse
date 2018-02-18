@@ -1,0 +1,21 @@
+Documentação: elixir-lang.org
+
+-Mix: Pacote utilitario que permite criar, compilar, executar tasks (gerar doc do projeto, por exemplo), gerenciar projeto
+-As funções ficam agrupadas em módulos
+-Implicit return: ultima linha é o que é retornado
+-List comprehection*
+-String concatenção      "#{value} of #{suit}"
+
+
+-Comandos
+Iex -S Mix - Run
+recompile
+
+-Tupla: lista onde o indice 0 é um retorno e o indice 1 é outro retorno. Normalmente, 0 - status :ok e 1 valor retornado
+Como acessar um elemento de uma tupla ou lista:
+pattern matching:
+{nome, nome2} = {valor, valor2}
+nome
+
+-Atom: Considere uma string
+- |> continuidade. Passa o retorno da funcção como argumento da proxima função
