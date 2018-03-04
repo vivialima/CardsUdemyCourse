@@ -19,5 +19,7 @@ pattern matching:
 {nome, nome2} = {valor, valor2}
 nome
 
+sdfdsf
+
 -Atom: Considere uma string
 - |> continuidade. Passa o retorno da funcção como argumento 1 da proxima função
