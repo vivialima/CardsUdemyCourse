@@ -13,6 +13,7 @@ recompile
 mix docs
 mix test
 
+trytrytrytr
 
 -Tupla: lista onde o indice 0 é um retorno e o indice 1 é outro retorno. Normalmente, 0 - status :ok e 1 valor retornado
 Como acessar um elemento de uma tupla ou lista:
